@@ -21,11 +21,11 @@ if(@$_REQUEST["key"]!="")
 "osVersion: 9\r\n" .
 "isott: true\r\n" .
 "languageId: 6\r\n" .
-"uniqueId: e3dd7741-9ad1-4609-b8c0-9fbc01cd004a\r\n" . # Change uniqueId if you chnaged token
+"uniqueId: 9d23b88c-9830-4480-98fc-1d49f236b513\r\n" . # Change uniqueId if you chnaged token
 "srno: 200206173037\r\n" .
 "usergroup: tvYR7NSNn7rymo3F\r\n" .
 "channelid: 472\r\n" .
-"ssotoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiJlM2RkNzc0MS05YWQxLTQ2MDktYjhjMC05ZmJjMDFjZDAwNGEiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjEwIiwiZGV2aWNlSWQiOm51bGwsImp0aSI6IjVjOTY3NTYxLWRkNGQtNGNkMS1hNDM2LTRhODhkZjIwYzAyNSIsImlhdCI6MTYyNzIwNzc2NX0.pWZEjDNuIOCEam2L_ynagktflAavNGzgToi8_wPfgfM\r\n" #Change To Your Details
+"ssotoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiI5ZDIzYjg4Yy05ODMwLTQ0ODAtOThmYy0xZDQ5ZjIzNmI1MTMiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjEwIiwiZGV2aWNlSWQiOm51bGwsImp0aSI6IjljMWQ0ODRmLWNiODEtNDQ5MS1iNDNhLWUwMDNlYzczY2MxYyIsImlhdCI6MTY1NzE2Mjc2Nn0.rcjD3hgUGZbMfmcRtCO5Acx0mMyyfloIcAutvoPyTRE\r\n" #Change To Your Details
 	    
     ]
 ];
